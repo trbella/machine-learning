@@ -14,6 +14,9 @@
 
 <sup>c</sup> *Center for Meteorological and Climatic Research Applied to Agriculture - UNICAMP, Brasil*
 
+
+#**Abstract**
+
 Cardiovascular diseases (CVDs) are the world-leading cause of death, with several studies showing that they are closely related to environmental variables,
 especially temperature and air quality. Early warning systems aim to mitigate
 the increased risk of death due to extreme environmental conditions. A key challenge is that the relationship between environmental variables and CVD deaths
