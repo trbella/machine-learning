@@ -36,5 +36,5 @@ error of 6.4% in deaths that vary from 139 to 286 monthly. With weather forecast
 preparedness from health care services and the population in advance.
 
 
-*Keywords*: Cardiovascular death, Time series prediction, Ambient
+***Keywords***: Cardiovascular death, Time series prediction, Ambient
 temperature, Pollution impact, Early warning system
